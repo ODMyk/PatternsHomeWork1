@@ -1,0 +1,11 @@
+**/obj
+**/bin
+**/.vscode
+Adapter/
+Composite/
+/Facade/
+/FactoryMethod/
+Prototype/
+Proxy/
+Singleton/
+Singleton2/
